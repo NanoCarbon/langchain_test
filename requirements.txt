@@ -1,0 +1,8 @@
+# Core
+streamlit==1.37.1
+chromadb==0.5.5
+sentence-transformers==3.0.1
+Pillow==10.4.0
+
+# For EXIF metadata
+exifread==3.0.0
