@@ -3,3 +3,5 @@ photos/
 __pycache__/
 *.pyc
 .DS_Store
+data/index/
+data/thumbs/
