@@ -3,9 +3,11 @@
 This is a local photo search application built with Streamlit, Chroma, and CLIP embeddings.
 It allows you to search through your personal photo collection with natural language queries such as:
 
-  -"tokyo scenery at night"
-  -"pictures of Mia at the temple"
-  -"beach sunrise"
+  "tokyo scenery at night"
+  
+  "pictures of Mia at the temple"
+  
+  "beach sunrise"
 
 You can also add or update tags for each photo. When tags are updated, the app recomputes the vector embeddings (mixing image and tag semantics) so that future searches immediately reflect your changes. Everything runs locally on your computer.
 
