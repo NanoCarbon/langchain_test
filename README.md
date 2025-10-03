@@ -5,7 +5,7 @@ It allows you to search through your personal photo collection with natural lang
 
   "tokyo scenery at night"
   
-  "pictures of Mia at the temple"
+  "pictures of a temple"
   
   "beach sunrise"
 
